@@ -1,11 +1,64 @@
-<h1 align="center">Hi 👋, I'm Aref Mehmari Chucri</h1>
-<h3 align="center">A passionate IOS developer from Brazil</h3>
+# 👋 Hi, I'm Aref Chucri
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/arefdeveloper91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arefdeveloper91" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aref-mehmari-chucri-4ba984308/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aref-mehmari-chucri-4ba984308/" height="30" width="40" /></a>
-</p>
+💻 Developer specialized in **SwiftUI**, **JavaScript**, and **cross-platform mobile applications**.  
+🚀 Passionate about technology, -style design, and building high-quality digital products.  
+📍 Bragança Paulista - SP, Brazil  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+---
+
+## 🛠 Tech Stack
+
+![Swift](https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=xcode&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-black?logo=apple&logoColor=white)  
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+
+---
+
+## 📂 Featured Projects
+
+🔹 **[Crossfit App (SwiftUI)](https://github.com/arefchucri/crossfit-app)**  
+Workout tracking, heart rate monitoring, and a clean Apple-style interface.  
+
+🔹 **[Workout App DarkMode](https://github.com/arefchucri/workout-darkmode)**  
+A complete workout app, fully optimized for Dark Mode.  
+
+🔹 **[Reminder App](https://github.com/arefchucri/reminder-app)**  
+Reminders app built with SwiftUI + modern navigation.  
+
+🔹 **[Uber Clone](https://github.com/arefchucri/uber-clone)**  
+Uber-like app with SwiftUI, map integration, and sleek UI.  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arefchucri&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arefchucri&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=arefchucri&theme=radical)
+
+---
+
+## 🎬 Animated Style  
+
+<img src="https://github.com/devSouvik/devSouvik/blob/master/gif3.gif" alt="Coder GIF" width="500"/>  
+
+---
+
+## 📫 Contact
+- LinkedIn: [linkedin.com/in/arefchucri](https://linkedin.com/in/arefchucri)  
+- Email: [youremail@example.com](mailto:youremail@example.com)  
+- Portfolio: [your-website.com](https://your-website.com)  
+
+---
+
+✨ Always looking for new challenges and opportunities to build amazing digital experiences.
