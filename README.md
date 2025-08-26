@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aref Chucri
 
-💻 Developer specialized in **SwiftUI**, **JavaScript**, and **cross-platform mobile applications**.  
+💻 Developer specialized in **SwiftUI**, **JavaScript**, **Flutter**, and **cross-platform mobile applications**.  
 🚀 Passionate about technology, -style design, and building high-quality digital products.  
 📍 Bragança Paulista - SP, Brazil  
 
@@ -18,6 +18,7 @@
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
@@ -56,7 +57,7 @@ Uber-like app with SwiftUI, map integration, and sleek UI.
 
 ## 📫 Contact
 - LinkedIn: [linkedin.com/in/arefchucri](https://linkedin.com/in/arefchucri)  
-- Email: [devfera14@gmail.com](mailto:devfera14@gmail.com)  
+- Email: [devfera14@gmail.com](devfera14@gmail.com)  
 - Portfolio: [your-website.com](https://your-website.com)  
 
 ---
