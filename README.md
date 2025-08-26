@@ -56,7 +56,7 @@ Uber-like app with SwiftUI, map integration, and sleek UI.
 
 ## 📫 Contact
 - LinkedIn: [linkedin.com/in/arefchucri](https://linkedin.com/in/arefchucri)  
-- Email: [youremail@example.com](mailto:youremail@example.com)  
+- Email: [devfera14@gmail.com](mailto:devfera14@gmail.com)  
 - Portfolio: [your-website.com](https://your-website.com)  
 
 ---
